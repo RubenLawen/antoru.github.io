@@ -7,7 +7,13 @@ for (let i = 0; i < AllLi.length; i++) {
   element.addEventListener("click", () => {
     for (let index = 0; index < AllH2.length; index++) {}
     if (element.textContent === "Type de nouilles") {
+      let selector = document.querySelector("#type h2");
+      selector.style.color = "#ff7a13";
+      selector.style.textDecoration = "underline";
     } else if (element.textContent === "Définition") {
+      let selector = document.querySelector("#definition h2");
+      selector.style.color = "#ff7a13";
+      selector.style.textDecoration = "underline";
     } else if (element.textContent === "Histoire") {
     } else if (element.textContent === "Préparation") {
     } else {
