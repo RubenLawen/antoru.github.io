@@ -51,14 +51,5 @@
         width: 35%;
     }
     
-
-    header nav ul {
-        flex-direction: column;
-    }
-    header nav ul a{
-        margin: 20px;
-
-    }
-    
 }
 
