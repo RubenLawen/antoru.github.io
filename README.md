@@ -8,9 +8,7 @@ Bienvenue dans Antoru, votre destination ultime pour explorer le monde infini de
     - Kit pour préparer des nouilles a la perfection.
     - Les diférents types de nouilles
 
-# Le procédé
-
-# Les branches
+# Le procédé des branches
 
 ![alt text](img/branches.png)
 
