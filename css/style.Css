@@ -82,3 +82,53 @@ header nav ul li a{
     font-size: 2rem;
 }
 
+/* MAIN */
+
+main{
+    padding: 0 50px;
+}
+
+#type{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#type h2{
+    flex-basis: 100%;
+    margin: 25px 0;
+}
+
+#type article{
+    width: 27.5%;
+    margin: 0 25Px;
+    color: #fffff4;
+    background-color: #003e5a;
+    padding: 15px 10px;
+    border-radius: 20px;
+}
+
+#type article h3{
+    text-align: center;
+}
+
+#type article p{
+    text-align: justify;
+    margin-bottom: 0;
+    font-size: 1.5rem;
+}
+
+/* FOOTER */
+
+footer{
+    background-color: #ff7a13;
+    text-align: center;
+    padding: 25Px;
+}
+
+
+/* ANIMATION */
+
+header nav ul li:hover{
+    text-decoration: underline;
+}
