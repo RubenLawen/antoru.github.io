@@ -1,0 +1,14 @@
+/* RESPONSIVE */
+
+
+
+@media only screen and (max-width: 767px) {
+    h1, h2, h3, p {
+        font-size: 1.8rem;
+    }
+
+    header {
+        flex-direction: column;
+        align-items: center;
+    }
+}
