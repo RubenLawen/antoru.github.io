@@ -32,4 +32,12 @@
         width: 80%;
         margin: 20px 0;
     }
+    
+    #type h2 {
+        flex-basis: auto;
+    }
+
+    footer {
+        padding: 20px;
+    }
 }
