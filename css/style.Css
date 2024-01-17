@@ -65,4 +65,8 @@
         padding: 0 10px;
     }
     
+    #type article {
+        width: 75%;
+        margin: 15px 25px;
+    }
 }
