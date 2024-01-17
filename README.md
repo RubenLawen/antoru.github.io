@@ -22,7 +22,7 @@ Bienvenue dans Antoru, votre destination ultime pour explorer le monde infini de
 
 # Technologies utilisées
 
-Html
-Css
-JavaScript
-NodeJs (commitizen)
+- Html
+- Css
+- JavaScript
+- NodeJs (commitizen)
