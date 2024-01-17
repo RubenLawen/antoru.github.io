@@ -34,5 +34,5 @@ for (let i = 0; i < AllLi.length; i++) {
       console.log("Error: " + element.textContent);
     }
   });
-  
+
 }
