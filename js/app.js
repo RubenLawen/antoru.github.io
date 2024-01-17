@@ -15,7 +15,13 @@ for (let i = 0; i < AllLi.length; i++) {
       selector.style.color = "#ff7a13";
       selector.style.textDecoration = "underline";
     } else if (element.textContent === "Histoire") {
+      let selector = document.querySelector("#histoire h2");
+      selector.style.color = "#ff7a13";
+      selector.style.textDecoration = "underline";
     } else if (element.textContent === "Préparation") {
+      let selector = document.querySelector("#preparation h2");
+      selector.style.color = "#ff7a13";
+      selector.style.textDecoration = "underline";
     } else {
       console.log("Error: " + element.textContent);
     }
