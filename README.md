@@ -12,7 +12,7 @@ Bienvenue dans Antoru, votre destination ultime pour explorer le monde infini de
 
 # Les branches
 
-    - ![#1589F0](img/branches.png) `#1589F0`
+![alt text](img/branches.png)
 
 # Comment démarrer
 
