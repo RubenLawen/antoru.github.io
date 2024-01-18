@@ -88,6 +88,12 @@ main{
     padding: 0 50px;
 }
 
+#createur {
+    width: 65%;
+    margin: 0 auto;
+    display: block;
+}
+
 #type{
     display: flex;
     justify-content: center;
